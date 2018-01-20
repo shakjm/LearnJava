@@ -19,7 +19,7 @@ public class ZipCode {
 		default:
 			System.out.println("default");
 
-			
+			123
 // Try with charAt function.
 		
 		}
