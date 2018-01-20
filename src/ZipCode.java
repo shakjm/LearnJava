@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-
+//This code checks for zip code using switch statements.
 public class ZipCode {
 
 	public static void main(String[] args) {
@@ -19,6 +19,8 @@ public class ZipCode {
 		default:
 			System.out.println("default");
 
+			
+// Try with charAt function.
 		
 		}
 			
